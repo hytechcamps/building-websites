@@ -1,0 +1,124 @@
+<!--
+	Final project! Make a blog page!
+	
+	This project will combine all of the stuff you have learned from the previous projects as well as introduce a couple new items such as borders and shorthand.
+	
+	Our blog page as is looks pretty snappy, though, it could definitely look better if we put a couple of borders around each post. 
+	
+	1. in the post class set the border-style to solid
+		border-style changes how a border is to be displayed. Some options are solid, dotted, and inset.
+	2. Additionally, set the border-width to 1px;
+		border-width just sets how thick the border is
+		
+	It doesn't really look like the borders make the posts any better. Perhaps we should try to separate the posts a little. 
+	
+	1. Add a top and bottom margin to the posts of 30px while keeping the left and right at 0px.
+		there are a couple ways to set a margin. They are:
+			margin: (the size of top, right, bottom, left)
+			margin: (the top and bottom) (the left and right)
+			margin: (the top) (the right) (the bottom) (the left)
+			
+		each parenthesis represents one value. margin: 10px 15px; sets 10px top and bottom and 15px left and right.
+		
+	It's starting to look a lot less cluttered. Let's try to move the text of each post farther away from the edge.
+	
+	1. Add a padding of 30px to the post class.
+	
+	Ahh, a lot better. Maybe we could move the title down a little with some padding?
+	
+	1. Add padding to a class that would help move the contents of the page down 30px
+	
+	We should try to deal with that social media bar at the bottom of the page. It's nice to let our viewers get to those pages, but perhaps we could move it to the corner of the screen and make it easier for them to access even if they have to scroll.
+	
+	1. Give the social class a fixed position
+	2. Set the location of the social class to bottom: 30px and right: 30px (to fit with our 30px padding theme)
+		'bottom' allows us to set how far from the bottom a fixed element is
+		'right' allows us to set how far from the right a fixed element is
+	
+	This page is really coming together. For one last addition let's set a filter on the social media logos and do a couple cool transforms and transitions to make our page stand out!
+	
+	1. in the logo class, set -webkit-filter: grayscale(100%) so we have gray images.
+	2. make a logo hover class and set the -webkit-filter to 0% grayscale
+	3. also, in the hover, set transform: rotateY(360deg);
+	4. finally, add a transition for transform and -webkit-filter and make them run for 1 second. 
+		Remember:
+			transition: property time, property time;
+			transition: -webkit-filter 1s, transform 1s;
+
+	Awesome! The site is finally complete! 
+	
+	Feel free to decorate the page, add more posts (try adding images to the contents of a post), or maybe add some transitions.
+-->
+<html>
+	<head>
+		<style>
+			body
+			{
+				margin: 0px;
+				padding: 0px;
+				font-family: "Trebuchet MS", Helvetica, sans-serif;
+			}
+
+			.wrapper
+			{
+				margin: 30px auto;
+				width: 960px;
+				text-align: center;
+			}
+
+			.logo
+			{
+				max-height: 50px;
+				max-width: 50px;
+			}
+
+			.contents
+			{
+
+			}
+
+			h1
+			{
+				text-align: center;
+			}
+
+			.post
+			{
+
+			}
+
+			p
+			{
+				text-align: left;
+			}
+			
+			.social
+			{
+				bottom: 30px;
+				right: 30px;
+			}
+		</style>
+	</head>
+	<body>
+		<div class="wrapper">
+			<div class="contents">
+				<h1>My Page</h1>
+				
+				<div class="post">
+					<h2>Test Post 2</h2>
+					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+				</div>
+				
+				<div class="post">
+					<h2>Test Post 1</h2>
+					<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?</p>
+				</div>
+			</div>			
+			<div class="social">
+				<a href="http://www.facebook.com"><img src="http://wiki.ivsa.org/images/2/2a/Facebook-New-Logo-2013.png" class="logo"></img></a>
+				<a href="http://www.plus.google.com/"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Google_plus.svg/2000px-Google_plus.svg.png" class="logo"></img></a>
+				<a href="http://www.twitter.com/"><img src="https://g.twimg.com/Twitter_logo_blue.png" class="logo"></img></a>
+			</div>
+		</div>
+	</body>
+</html>

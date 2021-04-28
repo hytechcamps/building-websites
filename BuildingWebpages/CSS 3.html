@@ -1,0 +1,85 @@
+<!--
+	CSS Classes
+	
+	CSS has this concept of a "class" which is basically just another way to identify an element in your html.
+	We can use classes to style any number of elements of various kinds.
+	To specify that a particular html tag have a class, add: class="classname"
+	
+	1. Add 3-5 img tags inside of the <div>
+		Make sure to set the src attribute to point to some pictures on google images.
+		The <div> tag stands for "division" and is used to separate out sections of a webpage into "divisions" or sections. Here, we're grouping all of the images into a single section we can then style later.
+	2. Add the small class to some of the images and add the large class to the rest of the images.
+		<img src="http://www.example.com/someimage.jpg" class="small"></img>
+	3. Check your work and make sure that the images that you set as small are small and the large ones are large.
+	4. Add a class to the div named 'images'
+	5. Add an entry in your css for 'images'
+		Note: when styling a class, the name starts with a period.
+		.smaller
+		.larger
+		.images
+	6. under '.images', add a 30px padding. This will get our images away from the side of the screen which looks a little better.
+		Padding is the space that "pads" the contents of an element from the edges of the container
+		
+		|----------|
+		| some txt |
+		| in this  |
+		| element  |
+		|__________|
+
+		Notice how the text doesn't touch the side of the box? That space between the text and the box is called padding.
+		
+		padding: 4px;
+		
+	7. Let's add a margin to the img tag so that they are separated a little.
+		Margin is like padding except it adds spacing to the outside of an element, not the inside.
+		
+		|----------|
+		|          |
+		|          |
+		|__________|
+		
+(this space here is margin)
+		
+		|----------|
+		|          |
+		|          |
+		|__________|
+		
+		margin: 10px;
+	
+	8. Add a neat effect when you hover over large images. (remember :hover)
+-->
+
+<html>
+	<head>
+		<style>
+			img
+			{
+				display: block;
+			}
+
+			.title
+			{
+				color: red;
+			}
+
+			.small
+			{
+				height: 100px;
+			}
+			
+			.large
+			{
+				height: 300px;
+			}
+		</style>
+	</head>
+	<body>
+		<h1 class="title">This is my styled title</h1>
+		<h1> This is not my styled title</h1>
+		
+		<div>
+			
+		</div>
+	</body>
+</html>
