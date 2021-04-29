@@ -1,27 +1,30 @@
 # Building Webpages
 Content for the Building Webpages Hy-Tech Camp
 
-## Overview
-This camp introduces HTML and CSS mostly through individual activities. There is a brief explanation of the web, and then there are activities. The students will complete the activities, and then the instructors will go over them. There are also Kahoot quizzes to punctuate the sections of the camp.
+## Icebreaker
+Have students create a color scheme using [coolors](https://coolors.co). After a few minutes, allow students to introduce themselves and share their color schemes. They will be able to use the colors they generate during the activity if desired.
 
-Instructors should compress the [BuildingWebpages](BuildingWebpages/) folder into a zipped folder, and allow the students to download the zip file. The whole camp will run through the [BuildingWebpages](BuildingWebpages.pptx) presentation.
+## Lecture
+Start by showing students how to view the source of a webpage - go to a page like [this one](https://en.wikipedia.org/wiki/Dog), right click, and select the "View page source" option.
 
-## Agenda
+After that, present the [PowerPoint Presentation](HelloHtml.pptx). The PowerPoint includes a brief introduction to the topics covered by the code-along activity.
 
-| Time | Activity |
+## Code-Along
+Walk through the [code-along](CodeAlong.md) instructions.
+
+## Kahoot
+At the end of the code-along, if there is time, play through the [Kahoot quiz](https://create.kahoot.it/share/duplicate-of-basic-html-css-activities-quiz/bacfd57b-72ff-4802-8cc7-caf098c9dd27).
+
+## Individual Work and Sharing Sites
+After the Kahoot, give students an opportunity to work independently, and share their sites. Prioritize sharing sites - there should be at least 5-10 minutes at the end for anyone to share.
+
+## Suggested Schedule
+
+| Activity | Time |
 |-|-|
-| 5:30-5:40 | Introductions |
-| 5:40-5:50 | What is the internet & how does it work? |
-| 5:50-5:55 | HTML Tags explanation |
-| 5:55-6:05 | Logging in/downloading files from ShareBase |
-| 6:05-6:15 | Html1 |
-| 6:15-6:20 | Html1 review |
-| 6:20-6:30 | Html2 |
-| 6:30-6:40 | Html2 review |
-| 6:40-6:50 | Html3 |
-| 6:50-6:55 | Html3 review |
-| 6:55-7:00 | Break |
-| 7:00-7:10 | HTML Kahoot |
-| 7:10-7:15 | CSS & Styling explanation |
-| 7:15-7:45 | CSS 1- 6 (how many they can get through) |
-| 7:50-8:00 | CSS Kahoot |
+| Icebreaker| 10m |
+| Lecture | 10m |
+| Code-Along | 40m |
+| Kahoot | 10m |
+| Individual Work | 10m |
+| Sharing Sites | 10m |
