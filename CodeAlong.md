@@ -14,7 +14,7 @@ To get started, follow the steps below. In order to make the setup quicker, you 
 
 Open up a Google Chrome browser, and follow these steps:
 
-1. Go to the [Starter Website Project](https://repl.it/@HylandOutreach/Starter-Website)
+1. Go to the [Starter Website Project](https://replit.com/@HylandOutreach/Starter-Website)
 1. On the right, find and click the "Fork" button to create a fork of this project  
     ![](https://i.imgur.com/ndhNX9c.png)
 1. On the pop-up that appears, click the "log in" link  
@@ -182,18 +182,15 @@ img {
 That should resize the image to a more appropriate height. Feel free to try changing the number to see what works.
 
 ## Using Custom Colors
-Some basic colors are built into the web (like **pink** and **red**), but it is also possible to use custom colors! Each color can be represented as a _hexidecimal color code_, which is a hashtag (`#`) followed by six alphanumeric characters. The easiest way to find a specific color is to use a color picker. Follow the steps below to update the colors on the website.
+Some basic colors are built into the web (like **pink** and **red**), but it is also possible to use custom colors! Each color can be represented as a _hexidecimal color code_, which is a hashtag (`#`) followed by six alphanumeric characters. The easiest way to find a specific color is to use a color picker. Luckily, Replit has a color picker built right into the code editor! Follow the steps below to update the colors on the website.
 
-1. Go to [Google's Color Picker](https://www.google.com/search?q=color+picker)
-1. Drag the two sliders around to select a new shade  
-    ![](https://i.imgur.com/Q6lxVvu.png)
-1. Once a color is selected, highlight the "HEX" code text under the color picker, and copy it
-    ![](https://i.imgur.com/ZnYw6fa.png)
-1. Go back to the Repl
-1. Remove the existing color value from the CSS, and paste in the new hex code
-    - Don't remove the `background:` part, just the color after
-1. Verify that the new background color appears on the website!
+1. Go to the **style.css** file
+1. Hover over the existing color name
+1. Drag the selectors around to find a new color
+1. Click the "Run" button, and verify that the new background color appears on the website!
 1. Repeat the steps above to change the color of the text to another custom color
+
+![](replitcolorpicker.gif)
 
 The CSS code should look something like this:
 
