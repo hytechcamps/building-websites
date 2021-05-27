@@ -12,4 +12,4 @@ Generate a color scheme using [coolors](https://coolors.co). Then, share the col
 ## Code-Along Activity
 Follow [these steps](CodeAlong.md) to start building a website!
 
-<iframe width="560" height="450px" src="https://www.youtube.com/embed/4drNo8aTPsQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="100%" height="450px" src="https://www.youtube.com/embed/4drNo8aTPsQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
