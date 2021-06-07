@@ -18,13 +18,17 @@ At the end of the code-along, if there is time, play through the [Kahoot quiz](h
 ## Individual Work and Sharing Sites
 After the Kahoot, give students an opportunity to work independently, and share their sites. Prioritize sharing sites - there should be at least 5-10 minutes at the end for anyone to share.
 
+If there is time at the end, before sharing sites, go over some of the [additional topics](https://hylandtechoutreach.github.io/coding-activities/HtmlCssJsContinued/AdditionalTopicChallenges.html). Show students how to embed a YouTube video, or some of the other CSS properties they can change.
+
+If there is nothing else to do and the students are not active, feel free to end the workshop early.
+
 ## Suggested Schedule
 
 | Activity | Time |
 |-|-|
-| Icebreaker| 10m |
-| Lecture | 10m |
-| Code-Along | 40m |
+| Icebreaker| 15m |
+| Lecture | 15m |
+| Code-Along | 50m |
 | Kahoot | 10m |
-| Individual Work | 10m |
+| Individual Work | 20m |
 | Sharing Sites | 10m |
