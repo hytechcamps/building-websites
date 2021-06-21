@@ -28,7 +28,8 @@ If there is nothing else to do and the students are not active, feel free to end
 |-|-|
 | Icebreaker| 15m |
 | Lecture | 15m |
-| Code-Along | 50m |
+| Break | 5m |
+| Code-Along | 45m |
 | Kahoot | 10m |
 | Individual Work | 20m |
 | Sharing Sites | 10m |
