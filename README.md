@@ -9,8 +9,12 @@ Start by showing students how to view the source of a webpage - go to a page lik
 
 After that, present the [PowerPoint Presentation](HelloHtml.pptx). The PowerPoint includes a brief introduction to the topics covered by the code-along activity.
 
+[Video](https://www.youtube.com/watch?v=nH4FsGZ4xcs)
+
 ## Code-Along
 Walk through the [code-along](CodeAlong.md) instructions.
+
+[Video](https://www.youtube.com/watch?v=4drNo8aTPsQ)
 
 ## Kahoot
 At the end of the code-along, if there is time, play through the [Kahoot quiz](https://create.kahoot.it/share/duplicate-of-basic-html-css-activities-quiz/bacfd57b-72ff-4802-8cc7-caf098c9dd27).
