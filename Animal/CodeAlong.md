@@ -1,5 +1,5 @@
 # Building a Website
-In this activity, use HTML and CSS to create your own website!
+In this activity, use HTML and CSS to create your own website featuring your favorite animal(s)!
 
 ## Overview of HTML, CSS, and repl.it
 - [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) is a **language** that lets developers to create websites. A web browser takes the HTML code, and displays it as a nice-looking webpage. Every website has a _source_, which can be viewed by right clicking and selecting "View Source" in the menu!
@@ -29,35 +29,26 @@ Currently, it should look something like this:
 ![](https://i.imgur.com/3A62IpA.png)
 
 ## Looking at the HTML
-Make sure the **index.html** file is selected on the left to view the HTML code. Notice how the code in the HTML creates the text on the website. Everything in HTML goes between _tags_, which tell the website what type of element to display. There are a lot of tags right now, but the important stuff goes between the `<body>` and `</body>` tags. For example, the text between the `<h1>` and `</h1>` tags becomes a large header.
-
-The first thing to do is update the header text with your name! For example, if my name were **Katara**, I could change the header so that it said **Katara's Website**.
-
-Update the code in the HTML section, _between_ the `<h1>` and `</h1>` tags. It should look something like this:
-
-```html
-<h1>Katara's Website</h1>
-```
-
+Make sure the **index.html** file is selected on the left to view the HTML code. Notice how the code in the HTML creates the text on the website. Everything in HTML goes between tags, which tell the website what type of element to display. There are a lot of tags right now, but the important stuff goes between the <body> and </body> tags. For example, the text between the <h1> and </h1> tags becomes a large header.
+The first thing to do is update the header text with your favorite animal or name of your pet! For example, if my favorite animal was an anteater, I could change the header so that it said **All About Anteaters.**
+Update the code in the HTML section, between the <h1> and </h1> tags. It should look something like this:
+<h1>All About Anteaters</h1>
 Click the "Run" button again, and make sure the text on the website updates with the new header!
 
-## Adding a Welcome Paragraph
-Now it's time to add a totally new element. The **paragraph** element is used to display normal text on a webpage. Its tags are `<p>` and `</p>`, with text content between.
 
-1. Make a new line underneath the `<h1></h1>`
-1. Add a `<p>` opening tag on the new line
-1. Enter some text that will be displayed
-1. At the end of the line, add a `</p>` to close the paragraph element
-1. Run the code, and verify that the message appears on the website!
-
+## Adding a Paragraph
+Now it's time to add a totally new element. The **paragraph** element is used to display normal text on a webpage. Its tags are <p> and </p>, with text content between.
+1.	Make a new line underneath the <h1></h1>
+2.	Add a <p> opening tag on the new line
+3.	Enter some text that will be displayed
+4.	At the end of the line, add a </p> to close the paragraph element
+5.	Run the code, and verify that the message appears on the website!
 The code should look something like this:
+**<p>My favorite animal is my dog, Bella. She is a Yorkie and is so cute! </p>**
 
-```html
-<p>Hi, I'm me. Welcome to my website!</p>
-```
 
-## Adding a List of Hobbies
-Next, it's time to add some information about yourself. Think of some hobbies or activities you enjoy, and then follow the instructions to list them on your website!
+## Adding a List of Facts
+Next, it's time to add some information about your favorite animal. You can Google some facts about your favorite animal or list out things you love about your pet and then follow the instructions to list them on your website!
 
 1. Add an `<h2></h2>` saying "My Hobbies" beneath the `<p></p>` element
     - This will display a slightly smaller header than `h1`
@@ -72,11 +63,11 @@ Next, it's time to add some information about yourself. Think of some hobbies or
 The code should look something like this:
 
 ```html
-<h2>My Hobbies</h2>
+<h2>Facts About Rabbits</h2>
 <ul>
-    <li>Reading</li>
-    <li>Writing</li>
-    <li>Petting Cats</li>
+    <li>A rabbit's ears can rotate 270 degrees</li>
+    <li>Rabbits can hop 3 feet high</li>
+    <li>The world's largest rabbit weights 55-pounds</li>
 </ul>
 ```
 
@@ -87,7 +78,7 @@ Almost every website has at least one image, and yours can too!
 The first thing to do is find an image. Images on websites have URLs which tell the browser where to look for them. Follow the instructions below to find the URL (or _address_) of an image, and copy it.
 
 1. Open a new browser tab and go to [Google Images](https://images.google.com/)
-1. Search for something appropriate (such as "cats")
+1. Search for something appropriate (such as "dogs")
 1. Click on the image you would like to use
 1. When it appears, right click and select "Copy image address"
     - Do not copy the image itself, that will not work!
@@ -98,7 +89,7 @@ Now, the image address is stored on the clipboard. It will be possible to paste 
 Now that you have the image, it's time to add it to your website.
 
 1. Make a new line under the `</ul>`
-1. Add another `<h2>` saying "A Cool Image"
+1. Add another `<h2>` saying "A Picture of a Dog"
 1. Make a new line under that
 1. Add a new element: `<img >`
 1. After the `img`, before the `>`, type in `src=""`
@@ -108,8 +99,8 @@ Now that you have the image, it's time to add it to your website.
 The code should look something like this:
 
 ```html
-<h2>A Cool Image</h2>
-<img src="https://images.unsplash.com/photo-1482066490729-6f26115b60dc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80">
+<h2>A Picture of a Dog </h2>
+<img src="https://www.gannett-cdn.com/media/2021/06/03/USATODAY/usatsports/imageForEntry18-8on.jpg?width=2560">
 ```
 
 ## Changing the Background Color with CSS
