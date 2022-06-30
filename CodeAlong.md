@@ -10,7 +10,7 @@ In this activity, use HTML and CSS to create your own website!
 To get started, follow the steps below. In order to make the setup quicker, you can use the following credentials:
 
 - username: **hylandstudent**
-- password: **hyland**
+- password: **Learn2Code!**
 
 Open up a Google Chrome browser, and follow these steps:
 
