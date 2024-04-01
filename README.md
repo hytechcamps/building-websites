@@ -1,7 +1,10 @@
-# Building Webpages
+# Building Websites with HTML & CSS
 Content for the Building Webpages Hy-Tech Camp
 
-### Videos
+## Description
+In this workshop, students will explore the inner workings of the World Wide Web, and then create their own webpages. They will use HTML to add text and pictures to their pages, and CSS to update fonts, colors, and more. By the end of the workshop, they will have gained a basic understanding of web development, and each student will have a totally unique website of their own design.
+
+## Videos
 There are videos for the camp here:
 
 - [Lecture](https://www.youtube.com/watch?v=nH4FsGZ4xcs)
