@@ -1,15 +1,24 @@
-# Building Webpages
-Welcome to the Building Webpages Hy-Tech Camp!
+# Building Websites
+Welcome to the Building Websites Hy-Tech Camp!
 
-## Icebreaker
-Generate a color scheme using [coolors](https://coolors.co). Then, share your color scheme with the group!
+## Icebreaker: Coolors
+[Click here to go to Coolors!](https://coolors.co/)
 
-## PowerPoint Presentation
-<iframe src='https://view.officeapps.live.com/op/embed.aspx?src=https://hytechcamps.github.io/building-webpages/HelloHtml.pptx' width='100%' height='450px' frameborder='0'></iframe>
+### Submission
+[Click here to submit your color scheme!](https://forms.office.com/r/YPV9SUKZ8x)
 
-<iframe width="100%" height="450px" src="https://www.youtube.com/embed/nH4FsGZ4xcs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Code-Along
+[Click here to start coding your website!](https://glitch.com/edit/#!/remix/building-websites-starter-project)
 
-## Code-Along Activity
-Follow [these steps](CodeAlong.md) to start building a website!
+## Customization
+[Click here to see some additional customization options!](Customization.md)
 
-<iframe width="100%" height="450px" src="https://www.youtube.com/embed/4drNo8aTPsQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+## Site Sharing
+[Click here to share your site!](https://forms.office.com/r/t1NP1Zdzzx)
+
+## Resources
+Here are some resources in case you need help:
+
+- [Icebreaker Guide](Icebreaker.md)
+- [PowerPoint Presentation](https://view.officeapps.live.com/op/embed.aspx?src=https://hytechcamps.github.io/building-websites/BuildingWebsites.pptx)
+- [Code-Along Guide](CodeAlong.md)
