@@ -1,45 +1,29 @@
-# Building a Website
+# Code-Along
 In this activity, use HTML and CSS to create your own website!
 
-## Overview of HTML, CSS, and repl.it
-- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML) is a **language** that lets developers to create websites. A web browser takes the HTML code, and displays it as a nice-looking webpage. Every website has a _source_, which can be viewed by right clicking and selecting "View Source" in the menu!
-- [CSS](https://developer.mozilla.org/en-US/docs/Glossary/CSS) is a **language** that lets developers add style to websites. This includes things like fonts, colors, and more.
-- [Replit](https://replit.com) is a **website** that lets developers create websites.
+## Getting Started
 
-## Setup
-To get started, follow the steps below. In order to make the setup quicker, you can use the following credentials:
+1. [Click here to open the starter project](https://glitch.com/edit/#!/remix/building-websites-starter-project)
+1. Open the preview pane  
+    ![](Assets/GlitchOpenPreviewPane.png)
 
-- username: **hylandstudent**
-- password: **Learn2Code!**
+That's it! You should be all set, and ready to code.
 
-Open up a Google Chrome browser, and follow these steps:
+## First Challenge: Looking at the HTML
+Make sure the **index.html** file is selected on the left to view the HTML code. Notice how the code in the HTML creates the text on the website. Everything in HTML goes between _tags_, which tell the website what type of element to display. 
 
-1. Go to the [Starter Website Project](https://replit.com/@HylandOutreach/Starter-Website)
-1. On the right, find and click the "Fork" button to create a fork of this project  
-    ![](https://i.imgur.com/ndhNX9c.png)
-1. On the pop-up that appears, click the "log in" link  
-    ![](https://i.imgur.com/c71B7fP.png)
-1. From there, enter your account information and click the "Log in" button  
-    ![](https://i.imgur.com/TDLyEN3.png)
-1. Next, click the "Run" button at the top of the page to build the website from the HTML  
-    ![](https://i.imgur.com/5KMRAQO.png)
-    
-Currently, it should look something like this:
-
-![](https://i.imgur.com/3A62IpA.png)
-
-## Looking at the HTML
-Make sure the **index.html** file is selected on the left to view the HTML code. Notice how the code in the HTML creates the text on the website. Everything in HTML goes between _tags_, which tell the website what type of element to display. There are a lot of tags right now, but the important stuff goes between the `<body>` and `</body>` tags. For example, the text between the `<h1>` and `</h1>` tags becomes a large header.
-
-The first thing to do is update the header text with your name! For example, if my name were **Katara**, I could change the header so that it said **Katara's Website**.
+The first thing to do is update the header text with your name! For example, if my name were **Sokka**, I could change the header so that it said **Sokka's Website**.
 
 Update the code in the HTML section, _between_ the `<h1>` and `</h1>` tags. It should look something like this:
 
 ```html
-<h1>Katara's Website</h1>
+<h1>
+  Sokka's Website
+</h1>
 ```
 
-Click the "Run" button again, and make sure the text on the website updates with the new header!
+### Updating the Preview
+If you want your new code to show up on your website, you have to click the Refresh button in the top bar above the preview. Click that, and make sure the text updates with your name!
 
 ## Adding a Welcome Paragraph
 Now it's time to add a totally new element. The **paragraph** element is used to display normal text on a webpage. Its tags are `<p>` and `</p>`, with text content between.
@@ -53,7 +37,9 @@ Now it's time to add a totally new element. The **paragraph** element is used to
 The code should look something like this:
 
 ```html
-<p>Hi, I'm me. Welcome to my website!</p>
+<p>
+  Hi, I'm me. Welcome to my website!
+</p>
 ```
 
 ## Adding a List of Hobbies
@@ -72,7 +58,9 @@ Next, it's time to add some information about yourself. Think of some hobbies or
 The code should look something like this:
 
 ```html
-<h2>My Hobbies</h2>
+<h2>
+  My Hobbies
+</h2>
 <ul>
     <li>Reading</li>
     <li>Writing</li>
@@ -81,7 +69,7 @@ The code should look something like this:
 ```
 
 ## Adding a Cool Image
-Almost every website has at least one image, and yours can too!
+This is looking rad, but what's missing? Almost every website has at least one image, and yours can too!
 
 ### Finding an Image
 The first thing to do is find an image. Images on websites have URLs which tell the browser where to look for them. Follow the instructions below to find the URL (or _address_) of an image, and copy it.
@@ -108,7 +96,9 @@ Now that you have the image, it's time to add it to your website.
 The code should look something like this:
 
 ```html
-<h2>A Cool Image</h2>
+<h2>
+  A Cool Image
+</h2>
 <img src="https://images.unsplash.com/photo-1482066490729-6f26115b60dc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80">
 ```
 
@@ -117,15 +107,15 @@ Now the content of the page is looking pretty good, but it's not very stylish. O
 
 On the left side of the page, open the **style.css** file by clicking on it:
 
-![](https://i.imgur.com/F2yni8l.png)
+![](Assets/GlitchStyleFile.png)
 
-Take a look at the code so far. Try to figure out how to change the background color from `mintcream` to another color, like `pink`!
+Take a look at the code so far. Try to figure out how to change the background color from `white` to another color, like `pink`!
 
 The code should look something like this:
 
 ```css
-body {
-    background: pink;
+* {
+  background: pink;
 }
 ```
 
@@ -160,7 +150,7 @@ Run the code, and verify that the text changes font and size! Feel free to try c
 The code should look something like this:
 
 ```css
-body {
+* {
   background: pink;
   color: red;
   font-family: consolas;
@@ -175,47 +165,51 @@ Add this code to the **style.css** file (at the bottom):
 
 ```css
 img {
-    height: 200px;
+  height: 200px;
 }
 ```
 
 That should resize the image to a more appropriate height. Feel free to try changing the number to see what works.
 
 ## Using Custom Colors
-Some basic colors are built into the web (like **pink** and **red**), but it is also possible to use custom colors! Each color can be represented as a _hexidecimal color code_, which is a hashtag (`#`) followed by six alphanumeric characters. The easiest way to find a specific color is to use a color picker. Luckily, Replit has a color picker built right into the code editor! Follow the steps below to update the colors on the website.
+Some basic colors are built into the web (like **pink** and **red**), but it is also possible to use custom colors! Each color can be represented as a _hexidecimal color code_, which is a hashtag (`#`) followed by six alphanumeric characters. The easiest way to find a specific color is to use a color picker, like [Google's color picker](https://www.google.com/search?q=color+picker)! Follow the steps below to update the colors on the website.
 
+1. Open a new tab
+1. [Search for "color picker" on Google](https://www.google.com/search?q=color+picker)
+1. Select a color
+1. Copy the HEX code  
+  - ![](Assets/GoogleColorPickerHex.png)
 1. Go to the **style.css** file
-1. Hover over the existing color name
-1. Drag the selectors around to find a new color
-1. Click the "Run" button, and verify that the new background color appears on the website!
+1. Paste the hex code where a color was
+1. Refresh the preview, and verify that the new color appears on the website!
 1. Repeat the steps above to change the color of the text to another custom color
-
-![](replitcolorpicker.gif)
 
 The CSS code should look something like this:
 
 ```css
-body {
-    background: #ffbdbd;
-    color: #bf3636;
-    font-family: consolas;
-    font-size: 18px;
+* {
+  background: #ffbdbd;
+  color: #bf3636;
+  font-family: consolas;
+  font-size: 18px;
 }
 ```
 
 ## Finishing Up
 Hopefully your website is looking good by now! It should look something like this:
 
-![](https://i.imgur.com/SQlUNpN.png)
+![](Assets/KataraSite.png)
 
 Congratulations, you've successfully built your own website!
 
-## Sharing
-To share your website, you can copy the URL from the bar at the top of the website:
+## Site Sharing
+To share your website, you can copy the URL from the bar at the top of the website preview:
 
-![](https://i.imgur.com/bk7r3vS.png)
+![](Assets/GlitchSiteUrl.png)
 
-Paste the link anywhere to share it.
+Paste the link anywhere (like the [site submission form](https://forms.office.com/r/t1NP1Zdzzx)) to share it.
 
-## Additional Topics
-If there is time remaining, there are a lot of additional updates to be made. Some of them can be found here: [Additional Topic Challenges](https://hylandtechoutreach.github.io/coding-activities/HtmlCssJsContinued/AdditionalTopicChallenges.html)
+## Customization
+If there is time remaining, there are a lot of additional updates to be made!
+
+[Click here to see what can be customized.](Customization.md)
