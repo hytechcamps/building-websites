@@ -1,6 +1,9 @@
 # Building Websites with HTML & CSS
 In this workshop, students will explore the inner workings of the World Wide Web, and then create websites of their own. They will use HTML to add text and pictures to their pages, and CSS to update fonts, colors, and more. By the end of the workshop, they will have gained a basic understanding of web development, and each student will have a totally unique website of their own design.
 
+## Student Content
+Student-facing content is available at [hytechcamps.github.io](https://hytechcamps.github.io/building-websites).
+
 ## Agenda
 Here are some general guidelines for the overall flow of the camp:
 
@@ -44,7 +47,7 @@ Follow the [guide](Icebreaker.md) to introduce the activity. There are a few too
 #### Submission
 After a few minutes, students should submit their color schemes using the [form](https://forms.office.com/r/YPV9SUKZ8x) linked on the [camp homepage](BOOKREADME.md). View responses in the [spreadsheet](https://hylandsw-my.sharepoint.com/:x:/g/personal/joseph_maxwell_hyland_com/EYBSPXkkzShBqu3CLXt2oQEBcHo1sTPzJeApM8nkyeMskg?e=5XdQKR); make sure to filter by the current date and room.
 
-#### Presentation
+#### Show and Tell
 Go through the responses, and call on each student. They should introduce themselves by sharing their name, grade, school, and color inspiration.
 
 ### Presentation
