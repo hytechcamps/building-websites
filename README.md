@@ -1,10 +1,10 @@
 # Building Websites with HTML & CSS
 In this workshop, students will explore the inner workings of the World Wide Web, and then create websites of their own. They will use HTML to add text and pictures to their pages, and CSS to update fonts, colors, and more. By the end of the workshop, they will have gained a basic understanding of web development, and each student will have a totally unique website of their own design.
 
-## Student Content
+### Student Content
 Student-facing content is available at [hytechcamps.github.io](https://hytechcamps.github.io/building-websites).
 
-## Agenda
+### Agenda
 Here are some general guidelines for the overall flow of the camp:
 
 | Activity | Time |
@@ -18,11 +18,11 @@ Here are some general guidelines for the overall flow of the camp:
 | Blooket | 10m |
 | Conclusion | 5m |
 
-## Tips
+### Tips
 Here are some tips to ensure a successful run:
 
-- Before the activity, **read through this lesson plan thoroughly**
-- During the activity, ask the students questions as often as possible
+- Before the camp, **read through this lesson plan thoroughly**
+- During the camp, ask the students questions as often as possible
     - Ask for their names, hobbies, movies they've seen, colors to use, fonts... anything!
     - Ask for suggestions about what to type next
     - Poll them to see what they know, or what they'd like to do
