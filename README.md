@@ -66,7 +66,7 @@ Give students some time to add more to their websites. There are a bunch of thin
 ### Site Sharing
 Encourage the students to share the websites they've built with the room. They can share them through [this form](https://forms.office.com/r/t1NP1Zdzzx).
 
-[Click here to view submissions.](https://hylandsw-my.sharepoint.com/:x:/g/personal/joseph_maxwell_hyland_com/EVyFLFUKufNKggRGD0FlRGIB2fTjR7BPaCklnPi9-jzSCw?e=YCfUsZ)
+[Click here to view submissions.](https://hylandsw-my.sharepoint.com/:x:/g/personal/joseph_maxwell_hyland_com/EVyFLFUKufNKggRGD0FlRGIBdOlbvteXVQiQb9hO7n0GEQ?e=MTSai2)
 
 ### Blooket: Formative Assessment
 [Blooket](https://www.blooket.com/) is a fun formative assessment tool that's similar to Kahoot, but more game-based. There are a variety of game modes where the students compete against each other in different ways. Answering questions correctly helps them achieve more success in each game.
