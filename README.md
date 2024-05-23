@@ -10,10 +10,10 @@ Here are some general guidelines for the overall flow of the camp:
 | Activity | Time |
 |-|-|
 | Icebreaker | 30m |
-| Presentation | 10m |
-| Code-Along | 25m |
+| Presentation | 15m |
+| Code-Along | 30m |
 | Break | 10m |
-| Customization| 10m |
+| Customization | 10m |
 | Sharing Sites | 10m |
 | Blooket | 10m |
 | Conclusion | 5m |
