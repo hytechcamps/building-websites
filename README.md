@@ -45,7 +45,7 @@ Have students create a color scheme using [coolors](https://coolors.co), and int
 Follow the [guide](Icebreaker.md) to introduce the activity. There are a few tools to help the generation process. Note that students will be able to use the colors they generate during the activity if desired.
 
 #### Submission
-After a few minutes, students should submit their color schemes using the [form](https://forms.office.com/r/YPV9SUKZ8x) linked on the [camp homepage](BOOKREADME.md). View responses in the [spreadsheet](https://hylandsw-my.sharepoint.com/:x:/g/personal/joseph_maxwell_hyland_com/EYBSPXkkzShBqu3CLXt2oQEBcHo1sTPzJeApM8nkyeMskg?e=5XdQKR); make sure to filter by the current date and room.
+After a few minutes, students should submit their color schemes using the [form](https://forms.office.com/r/YPV9SUKZ8x) linked on the [camp homepage](BOOKREADME.md). View responses in the [spreadsheet](https://hylandsw-my.sharepoint.com/:x:/g/personal/joseph_maxwell_hyland_com/EYBSPXkkzShBqu3CLXt2oQEBrskq9Ec35W-0csPxCPhiWg?e=iTogxo); make sure to filter by the current date and room.
 
 #### Show and Tell
 Go through the responses, and call on each student. They should introduce themselves by sharing their name, grade, school, and color inspiration.
