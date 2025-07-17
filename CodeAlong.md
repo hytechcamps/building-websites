@@ -2,10 +2,7 @@
 In this activity, use HTML and CSS to create your own website!
 
 ## Getting Started
-
-1. [Click here to open the starter project](https://glitch.com/edit/#!/remix/building-websites-starter-project)
-1. Open the preview pane  
-    ![](Assets/GlitchOpenPreviewPane.png)
+[Click here to open the starter project.](https://hytop.onrender.com/c/ffc)
 
 That's it! You should be all set, and ready to code.
 
@@ -17,13 +14,11 @@ The first thing to do is update the header text with your name! For example, if 
 Update the code in the HTML section, _between_ the `<h1>` and `</h1>` tags. It should look something like this:
 
 ```html
-<h1>
-  Sokka's Website
-</h1>
+<h1>Sokka's Website</h1>
 ```
 
 ### Updating the Preview
-If you want your new code to show up on your website, you have to click the Refresh button in the top bar above the preview. Click that, and make sure the text updates with your name!
+If you want your new code to show up on your website, you have to save the project. Click the "Save" button (or do `Ctrl`+`S`), and make sure the text updates with your name!
 
 ## Adding a Welcome Paragraph
 Now it's time to add a totally new element. The **paragraph** element is used to display normal text on a webpage. Its tags are `<p>` and `</p>`, with text content between.
@@ -37,9 +32,7 @@ Now it's time to add a totally new element. The **paragraph** element is used to
 The code should look something like this:
 
 ```html
-<p>
-  Hi, I'm me. Welcome to my website!
-</p>
+<p>Hi, I'm me. Welcome to my website!</p>
 ```
 
 ## Adding a List of Hobbies
@@ -58,9 +51,7 @@ Next, it's time to add some information about yourself. Think of some hobbies or
 The code should look something like this:
 
 ```html
-<h2>
-  My Hobbies
-</h2>
+<h2>My Hobbies</h2>
 <ul>
     <li>Reading</li>
     <li>Writing</li>
@@ -77,10 +68,10 @@ The first thing to do is find an image. Images on websites have URLs which tell 
 1. Open a new browser tab and go to [Google Images](https://images.google.com/)
 1. Search for something appropriate (such as "cats")
 1. Click on the image you would like to use
-1. When it appears, right click and select "Copy image address"
+1. When it appears, right click and select "Copy image link"
     - Do not copy the image itself, that will not work!
 
-Now, the image address is stored on the clipboard. It will be possible to paste it into your website after adding some HTML.
+Now, the image link is stored on the clipboard. It will be possible to paste it into your website after adding some HTML.
 
 ### Creating the Image Element
 Now that you have the image, it's time to add it to your website.
@@ -96,25 +87,21 @@ Now that you have the image, it's time to add it to your website.
 The code should look something like this:
 
 ```html
-<h2>
-  A Cool Image
-</h2>
+<h2>A Cool Image</h2>
 <img src="https://images.unsplash.com/photo-1482066490729-6f26115b60dc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80">
 ```
 
 ## Changing the Background Color with CSS
 Now the content of the page is looking pretty good, but it's not very stylish. One way to make the website look more fun and exciting is to use CSS! HTML is like the skeleton of a webpage, just the structure, and CSS is like the clothes that it wears, giving it style.
 
-On the left side of the page, open the **style.css** file by clicking on it:
-
-![](Assets/GlitchStyleFile.png)
+On the left side of the page, open the **style.css** file by clicking on it.
 
 Take a look at the code so far. Try to figure out how to change the background color from `white` to another color, like `pink`!
 
 The code should look something like this:
 
 ```css
-* {
+body {
   background: pink;
 }
 ```
@@ -203,11 +190,9 @@ Hopefully your website is looking good by now! It should look something like thi
 Congratulations, you've successfully built your own website!
 
 ## Site Sharing
-To share your website, you can copy the URL from the bar at the top of the website preview:
+[Click here to share your site!](https://forms.cloud.microsoft/r/TBmy2fmrS8)
 
-![](Assets/GlitchSiteUrl.png)
-
-Paste the link anywhere (like the [site submission form](https://forms.office.com/r/t1NP1Zdzzx)) to share it.
+_note: there are instructions on the form about how to copy and paste your URL._
 
 ## Customization
 If there is time remaining, there are a lot of additional updates to be made!

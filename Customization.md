@@ -13,18 +13,7 @@ The code should look something like this:
 ## CSS: Custom Fonts
 There are _some_ fonts built into the web by default, but there are a ton more available online. Use [Google Fonts](https://fonts.google.com/) to outfit your website with a cool custom one!
 
-### Built-In Project Fonts
-Some fonts are already built into the Glitch project. In the project files area, open the **extras/** folder, and then the **fonts.txt** file.  This file contains a list of usable fonts! Find one, and put it in the **style.css** code like this:
-
-```css
-* {
-  font-family: "Georgia";
-}
-```
-
-Try out some of the different ones to see how they look!
-
-### More Google Fonts
+## Google Fonts
 [Click here for a full guide on using Google Fonts.](https://developers.google.com/fonts/docs/getting_started) There are so many fonts available!
 
 Here is an example using a font called [Ms Madi](https://fonts.google.com/specimen/Ms+Madi):
