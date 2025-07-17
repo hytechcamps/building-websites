@@ -28,7 +28,7 @@ Once you have a great palette created, it's time to share it. First, copy a link
 
 Next, submit the form to share it:
 
-1. Open the [submission form](https://forms.office.com/r/YPV9SUKZ8x)  
+1. Open the [submission form](https://forms.cloud.microsoft/r/LzSWXbAxCu)  
   - This is also linked from the [camp homepage](BOOKREADME.md)
 1. Enter your name and room
 1. Paste the link

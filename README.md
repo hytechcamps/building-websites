@@ -45,7 +45,7 @@ Have students create a color scheme using [coolors](https://coolors.co), and int
 Follow the [guide](Icebreaker.md) to introduce the activity. There are a few tools to help the generation process. Note that students will be able to use the colors they generate during the activity if desired.
 
 #### Submission
-After a few minutes, students should submit their color schemes using the [form](https://forms.office.com/r/YPV9SUKZ8x) linked on the [camp homepage](BOOKREADME.md). View responses in the [spreadsheet](https://hylandsw-my.sharepoint.com/:x:/g/personal/joseph_maxwell_hyland_com/EYBSPXkkzShBqu3CLXt2oQEBrskq9Ec35W-0csPxCPhiWg?e=iTogxo); make sure to filter by the current date and room.
+After a few minutes, students should submit their color schemes using the [form](https://forms.cloud.microsoft/r/LzSWXbAxCu) linked on the [camp homepage](BOOKREADME.md). View responses in the [spreadsheet](https://hylandsw-my.sharepoint.com/:x:/g/personal/techoutreachteam_hyland_com/EakW4180Ma9MsJn-fX8nRGEBVgjEsasGMbUwG2_ujjHrNw?e=M2hJvK); make sure to filter by the current date and room.
 
 #### Show and Tell
 Go through the responses, and call on each student. They should introduce themselves by sharing their name, grade, school, and color inspiration.
@@ -64,9 +64,9 @@ From there, follow the [code-along instructions](CodeAlong.md) to show the stude
 Give students some time to add more to their websites. There are a bunch of things they can try by following the [guide](Customization.md).
 
 ### Site Sharing
-Encourage the students to share the websites they've built with the room. They can share them through [this form](https://forms.office.com/r/t1NP1Zdzzx).
+Encourage the students to share the websites they've built with the room. They can share them through [this form](https://forms.cloud.microsoft/r/TBmy2fmrS8).
 
-[Click here to view submissions.](https://hylandsw-my.sharepoint.com/:x:/g/personal/joseph_maxwell_hyland_com/EVyFLFUKufNKggRGD0FlRGIBdOlbvteXVQiQb9hO7n0GEQ?e=MTSai2)
+[Click here to view submissions.](https://hylandsw-my.sharepoint.com/:x:/g/personal/techoutreachteam_hyland_com/EdiYkA-thklPpBgdh6PC48MBOL2eoSnON1KqN8lSKQgRkw?e=x5tMAh)
 
 ### Blooket: Formative Assessment
 [Blooket](https://www.blooket.com/) is a fun formative assessment tool that's similar to Kahoot, but more game-based. There are a variety of game modes where the students compete against each other in different ways. Answering questions correctly helps them achieve more success in each game.

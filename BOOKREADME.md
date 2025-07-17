@@ -1,20 +1,20 @@
 # Building Websites
-Welcome to the Building Websites Hy-Tech Camp!
+Welcome to the Building Websites workshop!
 
 ## Icebreaker: Coolors
 [Click here to go to Coolors!](https://coolors.co/)
 
 ### Submission
-[Click here to submit your color scheme!](https://forms.office.com/r/YPV9SUKZ8x)
+[Click here to submit your color scheme!](https://forms.cloud.microsoft/r/LzSWXbAxCu)
 
 ## Code-Along
-[Click here to start coding your website!](https://glitch.com/edit/#!/remix/building-websites-starter-project)
+[Click here to start coding your website!](https://hytop.onrender.com/c/ffc)
 
 ## Customization
 [Click here to see some additional customization options!](Customization.md)
 
 ## Site Sharing
-[Click here to share your site!](https://forms.office.com/r/t1NP1Zdzzx)
+[Click here to share your site!](https://forms.cloud.microsoft/r/TBmy2fmrS8)
 
 ## Resources
 Here are some resources in case you need help:
